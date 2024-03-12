@@ -21,3 +21,15 @@ body {
     width: 50rem;
     height: 2.5rem;
 }
+
+.low-importance {
+    color: green;
+}
+
+.medium-importance {
+    color: orange;
+}
+
+.high-importance {
+    color: red;
+}
